@@ -3,3 +3,6 @@ bin
 
 #Library
 lib
+
+# Secrets
+mysite/mysite/settings.py
