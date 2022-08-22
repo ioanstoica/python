@@ -6,3 +6,4 @@ lib
 
 # Secrets
 mysite/mysite/settings.py
+mysite/mysite/__pychache__
